@@ -49,4 +49,5 @@ Capable of building sleek, interactive Power BI dashboards with DAX measures, ca
 - 📧 dannyjokeefe89@gmal.com
 
 ---
-**Thanks for stopping by!** 🚀
+**"Without data, you're just another person with an opinion."
+— W. Edwards Deming** 
