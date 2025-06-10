@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**dannyjokeefe/dannyjokeefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Danny O'Keefe
 
 Welcome to my GitHub! I'm passionate about data analysis, visualization, and cloud-based solutions. Below are some of the core tools I use in my projects:
