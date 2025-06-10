@@ -46,7 +46,7 @@ Capable of building sleek, interactive Power BI dashboards with DAX measures, ca
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dannyokeefedataanalyst)
 - 📁 [My Portfolio](#)
-- 📧 dannyjokeefe89@gmal.com
+- 📧 dannyjokeefe89@gmail.com
 
 ---
 **"Without data, you're just another person with an opinion."
